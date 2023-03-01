@@ -1,0 +1,10 @@
+body{
+    background-color: antiquewhite;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: rgb(156, 155, 155);
+    border-width: 5px;
+    width: 5%;    
+}
